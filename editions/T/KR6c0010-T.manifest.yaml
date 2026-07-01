@@ -1,0 +1,456 @@
+canonical_identifier: bkk:krp/KR6c0010/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0010/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道行般若經
+  identifiers:
+    krp: KR6c0010
+    cbeta: T08n0224
+    cbeta_old_id: T08n0224
+    authorityid: CA0000738
+    json_key: T0224
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0224.xml
+    old_id: T08n0224
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0010_000-T.yaml, hash: 'sha256:e40b619268985422e38bea2878851577915e4caa288cb6b8cc0591962b9a5fbf'}
+  - {seq: 1, filename: KR6c0010_001-T.yaml, hash: 'sha256:bdbe13a8cfe166df6074507f473a5d868fd7a27766f067660c680f2261fccf82'}
+  - {seq: 2, filename: KR6c0010_002-T.yaml, hash: 'sha256:2d8d12a404027f74cdabdc0fb6cbac42674baa0e33587aa02e66075d0464a951'}
+  - {seq: 3, filename: KR6c0010_003-T.yaml, hash: 'sha256:a97936075f702119c9e1264a190f2c4a41e9b71dcacd3232c2c05a76d62f8c77'}
+  - {seq: 4, filename: KR6c0010_004-T.yaml, hash: 'sha256:0c83559251c109c361c0a730cfb98816ac4920b2a63c1004ae5d7ce855639637'}
+  - {seq: 5, filename: KR6c0010_005-T.yaml, hash: 'sha256:9df8643d30b4fb46d4bfb193cc9875e96dffbbd331a60522bb19243c311997cc'}
+  - {seq: 6, filename: KR6c0010_006-T.yaml, hash: 'sha256:b642e1c928a926e1230647b47f638a7f8ba131c0c10a223f352cd673d8bd1d6a'}
+  - {seq: 7, filename: KR6c0010_007-T.yaml, hash: 'sha256:04d5f0b28ce4eeeb952f1d4e5bd7f29aeb2fbf2e147d0ec1003a5c0a6b1bbfd2'}
+  - {seq: 8, filename: KR6c0010_008-T.yaml, hash: 'sha256:ce125fe078e0e77644d0f128106b710edf841969c94dc6eaa119f06ef60ebd20'}
+  - {seq: 9, filename: KR6c0010_009-T.yaml, hash: 'sha256:d341752e2e46274cb662e536302368b6e2db598eed9c3bac5ddb109e71fa266e'}
+  - {seq: 10, filename: KR6c0010_010-T.yaml, hash: 'sha256:e54f43329c98b63951e5650ce37ac3f023d782973516acb39fbb79d583784fa4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0010_000-T.markers.yaml, hash: 'sha256:492b164a190df50df8a4eb2613db47778ade6ebcef06f4c183ba209e8653503a'}
+  - {seq: 1, role: markers, filename: assets/KR6c0010_001-T.markers.yaml, hash: 'sha256:6a186733527df191a7fa04e0deca46789d26275d33323746f3511e21b3032d4a'}
+  - {seq: 2, role: markers, filename: assets/KR6c0010_002-T.markers.yaml, hash: 'sha256:e51fcc9d318ad58c32dadecef4b2391db80a02b690d4f73c91ca5301aacd548b'}
+  - {seq: 3, role: markers, filename: assets/KR6c0010_003-T.markers.yaml, hash: 'sha256:0e91339a4a7bd9fad1a75fe23bc5dd214534bdde5dbfad32c925d040a4caf084'}
+  - {seq: 4, role: markers, filename: assets/KR6c0010_004-T.markers.yaml, hash: 'sha256:80f2517e2af51b2c57ad0a1704392a77a8451b4962ab603c8f0a22f4551b64fd'}
+  - {seq: 5, role: markers, filename: assets/KR6c0010_005-T.markers.yaml, hash: 'sha256:6caf0e27879f447ce05297953a78edb7d109650498dc8550f67469df2d5cacff'}
+  - {seq: 6, role: markers, filename: assets/KR6c0010_006-T.markers.yaml, hash: 'sha256:bc895e36efbd74310376cb0a2a379b2799e2f352b55e1cba3b3bb934f41bd16b'}
+  - {seq: 7, role: markers, filename: assets/KR6c0010_007-T.markers.yaml, hash: 'sha256:ef4825420461706892c272a437a793d5b00d6485fd9f14579d692d988ca7615e'}
+  - {seq: 8, role: markers, filename: assets/KR6c0010_008-T.markers.yaml, hash: 'sha256:d5cf52dbd4d82086509318fdad0811220dcb51e7d039d42829be59b9789fc173'}
+  - {seq: 9, role: markers, filename: assets/KR6c0010_009-T.markers.yaml, hash: 'sha256:3386a42dfec585086ac5ee308c59eb6ccc33cedd00f7c150bf7e9b026e811292'}
+  - {seq: 10, role: markers, filename: assets/KR6c0010_010-T.markers.yaml, hash: 'sha256:d7b49998db3cc0d6accfb9b1f104dd112d39326f0a533a44faa6600baa2e4f50'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0010_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0010_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7567
+  label: 道行般若經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0010_T_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 1 道行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0010_T_001-mulu-2
+    span:
+    - body
+    - 4912
+    - 4912
+  label: 2 難問品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0010_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10131
+  label: 道行般若經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0010_T_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 3 功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0010_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7822
+  label: 道行般若經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0010_T_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 4 漚拘舍羅勸助品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0010_T_003-mulu-2
+    span:
+    - body
+    - 3404
+    - 3404
+  label: 5 泥犁品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0010_T_003-mulu-3
+    span:
+    - body
+    - 5715
+    - 5715
+  label: 6 清淨品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0010_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7297
+  label: 道行般若經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0010_T_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 7 嘆品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0010_T_004-mulu-2
+    span:
+    - body
+    - 1441
+    - 1441
+  label: 8 持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0010_T_004-mulu-3
+    span:
+    - body
+    - 4755
+    - 4755
+  label: 9 覺品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0010_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8249
+  label: 道行般若經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0010_T_005-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 10 照明品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0010_T_005-mulu-2
+    span:
+    - body
+    - 2929
+    - 2929
+  label: 11 不可計品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0010_T_005-mulu-3
+    span:
+    - body
+    - 4320
+    - 4320
+  label: 12 譬喻品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0010_T_005-mulu-4
+    span:
+    - body
+    - 5215
+    - 5215
+  label: 13 分別品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0010_T_005-mulu-5
+    span:
+    - body
+    - 6634
+    - 6634
+  label: 14 本無品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0010_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5834
+  label: 道行般若經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0010_T_006-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 15 阿惟越致品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0010_T_006-mulu-2
+    span:
+    - body
+    - 2593
+    - 2593
+  label: 16 怛竭優婆夷品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0010_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7185
+  label: 道行般若經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0010_T_007-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 17 守空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0010_T_007-mulu-2
+    span:
+    - body
+    - 1237
+    - 1237
+  label: 18 遠離品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0010_T_007-mulu-3
+    span:
+    - body
+    - 4993
+    - 4993
+  label: 19 善知識品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0010_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7183
+  label: 道行般若經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0010_T_008-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 20 釋提桓因品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0010_T_008-mulu-2
+    span:
+    - body
+    - 823
+    - 823
+  label: 21 貢高品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0010_T_008-mulu-3
+    span:
+    - body
+    - 1841
+    - 1841
+  label: 22 學品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0010_T_008-mulu-4
+    span:
+    - body
+    - 3136
+    - 3136
+  label: 23 守行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0010_T_008-mulu-5
+    span:
+    - body
+    - 5214
+    - 5214
+  label: 24 強弱品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0010_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8199
+  label: 道行般若經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0010_T_009-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 25 累教品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0010_T_009-mulu-2
+    span:
+    - body
+    - 1441
+    - 1441
+  label: 26 不可盡品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0010_T_009-mulu-3
+    span:
+    - body
+    - 2311
+    - 2311
+  label: 27 隨品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0010_T_009-mulu-4
+    span:
+    - body
+    - 3334
+    - 3334
+  label: 28 薩陀波倫菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0010_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5993
+  label: 道行般若經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0010_T_010-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 29 曇無竭菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0010_T_010-mulu-2
+    span:
+    - body
+    - 4687
+    - 4687
+  label: 30 囑累品
+  type: mulu
+  level: 1
+hash: sha256:c730272d554d4acd0e2ad78b2d79b06063f7747f3fc64556844ff1f7599e6de1
